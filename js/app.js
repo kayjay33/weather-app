@@ -196,7 +196,7 @@ button.addEventListener('click', function() {
 	getIconSeven(forecastValueSeven);
 
 	})
-	.catch(err => console.log('whoops there was a problem')
+	.catch(err => console.log('whoops there was a problem'))
 })
 
 // Date Section
